@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 |     4| C/C++     |
   
 </details>
+
+---
+> L'Eternel, le Seigneur, est ma force...
