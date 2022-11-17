@@ -34,5 +34,4 @@ Here are some ideas to get you started:
   
 </details>
 
----
 > The Lord, the Lord is my strength...
