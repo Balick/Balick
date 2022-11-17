@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning ReactJS
+- 📫 How to reach me:
+-- balickmethens@gmail.com
+-- +243971799413
