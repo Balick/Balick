@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm called Théo Balick (alias GloriouS)
+## I'm called Théo Balick (alias GloriouS)
 
 <!--
 **Balick/Balick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
