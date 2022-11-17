@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me:
--- balickmethens@gmail.com
--- +243971799413
+- 📫 How to reach me: balickmethens@gmail.com or my phone number +243 971 799 413
