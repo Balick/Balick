@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     2| HTML&CSS  |
+|     3| Java      |
+|     4| C/C++     |
   
 </details>
