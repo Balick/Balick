@@ -22,3 +22,13 @@ Here are some ideas to get you started:
 - 😍 The tools i use : Tailwindcss, Parcel... 
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: balickmethens@gmail.com or my phone number +243 971 799 413
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
