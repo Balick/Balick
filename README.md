@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤️ I'm a javaScript developper
+- 🥋 I'm a Software engineer (also webmaster 😁)
+- ❤️ JavaScript is my favorite language !
+- 👑 My skills : CSS, HTML, C/C++, Java and JavaScript
+- 😍 The tools i use : Tailwindcss, Parcel... 
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: balickmethens@gmail.com or my phone number +243 971 799 413
